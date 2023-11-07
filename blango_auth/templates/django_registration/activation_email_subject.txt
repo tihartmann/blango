@@ -1,0 +1,1 @@
+Hey {{ user.email }}, activate your Blango account within the next {{ expiration_days }} days
